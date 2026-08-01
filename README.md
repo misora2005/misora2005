@@ -1,14 +1,39 @@
+<!-- ========================= -->
+
+<!-- Cover -->
+
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MISORA'S%20GITHUB&fontSize=45&fontAlignY=35&desc=Welcome%20to%20my%20digital%20portfolio&descAlignY=55&descSize=18"
+    width="100%"
+    alt="MISORA'S GITHUB"
+  />
+</p>
+
 <div align="center">
 
-# 📖 MISORA'S GITHUB
-
-### *Welcome to my digital portfolio*
+### 📖 Digital Portfolio
 
 `Page 01` · `Portfolio` · `GitHub`
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Misora+%F0%9F%91%8B;Software+Developer;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%93%96"
+alt="Typing SVG"
+/>
 
 </div>
 
 ---
+
+<!-- ========================= -->
+
+<!-- About Me -->
+
+<!-- ========================= -->
 
 <table>
 <tr>
@@ -49,7 +74,7 @@ I'm interested in software development and enjoy learning new technologies and b
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,linux" />
 </p>
 
 ### Currently Exploring
@@ -63,6 +88,12 @@ I'm interested in software development and enjoy learning new technologies and b
 </table>
 
 ---
+
+<!-- ========================= -->
+
+<!-- Chapter 01 -->
+
+<!-- ========================= -->
 
 <div align="center">
 
@@ -88,6 +119,12 @@ I'm interested in software development and enjoy learning new technologies and b
 
 ---
 
+<!-- ========================= -->
+
+<!-- Chapter 02 -->
+
+<!-- ========================= -->
+
 <div align="center">
 
 ## 📊 Chapter 02 — GitHub Activity
@@ -105,6 +142,12 @@ alt="GitHub Metrics"
 </div>
 
 ---
+
+<!-- ========================= -->
+
+<!-- Chapter 03 -->
+
+<!-- ========================= -->
 
 <div align="center">
 
@@ -134,8 +177,15 @@ alt="GitHub Metrics"
 
 ---
 
+<!-- ========================= -->
+
+<!-- Chapter 04 & 05 -->
+
+<!-- ========================= -->
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 📚 Chapter 04 — What I'm Building
@@ -149,6 +199,7 @@ alt="GitHub Metrics"
 * Personal projects
 * Open-source contributions
 * Creative coding experiments
+* Useful tools and applications
 
 </td>
 
@@ -168,10 +219,37 @@ alt="GitHub Metrics"
 *The journey is just beginning.*
 
 </td>
+
 </tr>
 </table>
 
 ---
+
+<!-- ========================= -->
+
+<!-- Contact -->
+
+<!-- ========================= -->
+
+<div align="center">
+
+## 📫 Contact
+
+Feel free to reach out!
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/misora2005)
+
+</div>
+
+---
+
+<!-- ========================= -->
+
+<!-- Final Page -->
+
+<!-- ========================= -->
 
 <div align="center">
 
@@ -179,15 +257,19 @@ alt="GitHub Metrics"
 
 ### Thanks for visiting!
 
-If you found something interesting here, feel free to explore my repositories.
+*Every project is another page in the story.*
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/misora2005)
-
-<br><br>
-
 `Page 01` · `Page 02` · `Page 03` · `Page 04` · `Page 05` · `Final`
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"
+width="100%"
+alt="Footer"
+/>
 
 <sub>Built with Markdown · GitHub Actions · ❤️</sub>
 

@@ -40,19 +40,23 @@ I'm interested in software development and enjoy learning new technologies and b
 
 ## 🛠️ Tech & Tools
 
-**Languages**
+### Languages
 
-`Python` `Java` `JavaScript`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
-**Tools**
+### Tools
 
-`Git` `GitHub` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,linux" />
+</p>
 
-**Currently Exploring**
+### Currently Exploring
 
-`Web Development`
-`GitHub Actions`
-`Open Source`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript" />
+</p>
 
 </td>
 </tr>
@@ -62,13 +66,23 @@ I'm interested in software development and enjoy learning new technologies and b
 
 <div align="center">
 
-## 📊 Chapter 01 — GitHub Activity
+## 🛠️ Chapter 01 — My Tech Stack
 
-*The story of my activity on GitHub.*
+*The tools I use to build things.*
 
 <br>
 
-<img src="output/metrics.svg" width="750" alt="GitHub Metrics">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,typescript" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,linux" />
+</p>
+
+<br>
+
+`Programming` · `Web Development` · `Tools` · `Infrastructure`
 
 </div>
 
@@ -76,7 +90,25 @@ I'm interested in software development and enjoy learning new technologies and b
 
 <div align="center">
 
-## 🧊 Chapter 02 — Contribution Garden
+## 📊 Chapter 02 — GitHub Activity
+
+*The story of my activity on GitHub.*
+
+<br>
+
+<img
+src="output/metrics.svg"
+width="750"
+alt="GitHub Metrics"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧊 Chapter 03 — Contribution Garden
 
 *Every contribution leaves a mark.*
 
@@ -106,7 +138,7 @@ I'm interested in software development and enjoy learning new technologies and b
 <tr>
 <td width="50%" valign="top">
 
-## 📚 Chapter 03 — What I'm Building
+## 📚 Chapter 04 — What I'm Building
 
 ### 🚧 Current Projects
 
@@ -122,7 +154,7 @@ I'm interested in software development and enjoy learning new technologies and b
 
 <td width="50%" valign="top">
 
-## 🏆 Chapter 04 — Achievements
+## 🏆 Chapter 05 — Achievements
 
 ### GitHub Journey
 
@@ -155,7 +187,7 @@ If you found something interesting here, feel free to explore my repositories.
 
 <br><br>
 
-`Page 01` · `Page 02` · `Page 03` · `Page 04`
+`Page 01` · `Page 02` · `Page 03` · `Page 04` · `Page 05` · `Final`
 
 <sub>Built with Markdown · GitHub Actions · ❤️</sub>
 

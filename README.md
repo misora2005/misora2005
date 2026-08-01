@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 📖 Digital Portfolio
+###  Digital Portfolio
 
 `Page 01` · `Portfolio` · `GitHub`
 

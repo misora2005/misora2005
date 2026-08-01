@@ -49,7 +49,7 @@ I'm interested in software development and enjoy learning new technologies and b
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
 ### Currently Exploring

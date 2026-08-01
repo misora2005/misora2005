@@ -1,30 +1,20 @@
-# Hi there 👋
+<h1 align="center">Hi there, I'm Misora 👋</h1>
 
-## My GitHub Stats
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg">
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg">
-    <img
-      alt="GitHub Metrics"
-      src="output/metrics.base.svg"
-      width="400"
-    />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg">
-    <img
-      alt="GitHub Details"
-      src="output/details.svg"
-      width="400"
-    />
-  </picture>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=misora2005&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<p align="left">
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="output/metrics.svg" width="700" alt="GitHub Metrics" />
+</p>
+
+## 🧊 3D Contributions
+
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -35,27 +25,19 @@
       srcset="profile-3d-contrib/profile-season-animate.svg"
     />
     <img
-      alt="3D Contribution Graph"
       src="profile-3d-contrib/profile-season-animate.svg"
       width="700"
+      alt="3D Contribution Graph"
     />
   </picture>
 </p>
 
-<p align="left">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="output/metrics.plugin.achievements.compact.svg"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="output/metrics.plugin.achievements.compact.svg"
-    />
-    <img
-      alt="GitHub Achievements"
-      src="output/metrics.plugin.achievements.compact.svg"
-      width="400"
-    />
-  </picture>
+## 🏆 Achievements
+
+<p align="center">
+  <img
+    src="output/metrics.svg"
+    width="700"
+    alt="GitHub Achievements"
+  />
 </p>

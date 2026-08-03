@@ -8,7 +8,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MISORA'S%20GITHUB&fontSize=45&fontAlignY=35&desc=Welcome%20to%20my%20digital%20portfolio&descAlignY=55&descSize=18"
     width="100%"
-    alt="MISORA'S GITHUB"
+    alt="MIKAWA'S GITHUB"
   />
 </p>
 

@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MISORA'S%20GITHUB&fontSize=45&fontAlignY=35&desc=Welcome%20to%20my%20digital%20portfolio&descAlignY=55&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=MIKAWA'S%20GITHUB&fontSize=45&fontAlignY=35&desc=Welcome%20to%20my%20digital%20portfolio&descAlignY=55&descSize=18"
     width="100%"
     alt="MIKAWA'S GITHUB"
   />
@@ -21,7 +21,7 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Misora+%F0%9F%91%8B;Software+Developer;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%93%96"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Mikawa+%F0%9F%91%8B;Software+Developer;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%93%96"
 alt="Typing SVG"
 />
 
